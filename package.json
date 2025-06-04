@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/architecto-eius-quos-error",
-  "version": "14.41.353",
+  "version": "14.41.354",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -332,5 +332,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/architecto-eius-quos-error/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
